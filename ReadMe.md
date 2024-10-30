@@ -20,6 +20,7 @@ ______________________________________________________________
   * Heure
   * Gps
   * Température
+  * Temps ( pluie, orage, vent, ... )
 
 * Base de donnée
   * Nom de la table
