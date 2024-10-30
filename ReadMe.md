@@ -22,9 +22,9 @@ ______________________________________________________________
   * Température
   * Temps ( pluie, orage, vent, ... )
 
-* Base de donnée
+* Base de données
   * Nom de la table
   * Clé primaire
   * Champs
-  * clés étrangères
+  * Clés étrangères
    
